@@ -1,3 +1,4 @@
 # crackmes_part1
-Hi crackme 15 yo. Key gen 
+Hi crackme 15 yo. Key Gen on linux under windows + wsl 
+
 
